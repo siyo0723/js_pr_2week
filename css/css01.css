@@ -1,0 +1,45 @@
+#top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid purple;
+    text-align:center;
+    cursor: pointer;
+}
+
+#top:hover {
+    background-color: pink;
+    border: 1px solid purple;
+}
+
+* {
+    height: 4000px;
+}
+
+.box1{
+    width:auto;
+    height:1000px;
+    background-color:indianred;
+}
+
+.box2{
+    width:auto;
+    height:1000px;
+    background-color:aquamarine;
+}
+
+.box3{
+    width:auto;
+    height:1000px;
+    background-color:plum;
+}
+
+.box4{
+    width:auto;
+    height:1000px;
+    background-color:burlywood;
+}
